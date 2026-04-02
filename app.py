@@ -10,7 +10,7 @@ st.set_page_config(page_title = "Stock Data Extraction App", layout = "wide")
 st.title("Stock Data Extraction App")
 
 #Short Description under the title
-st.write("Extract stocl ,market data from yahoo Finance using ticker symbol")
+st.write("Extract stock ,market data from yahoo Finance using ticker symbol")
 # sidebar Header
 st.sidebar.header("User Input")
 
